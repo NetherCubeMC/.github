@@ -4,7 +4,7 @@
 
 ### Who We Are
 
-We're a small upcoming Minecraft: Bedrock Edition minigames server made for the fun of our players. Games will include SkyWars, TnTRun, Build Battle, Murder Mystery, and much more in the future! We cannot wait to show you what we've been working on. ✨
+We're a small upcoming Minecraft: Bedrock Edition minigames server. Games will include SkyWars, TnTRun, Build Battle, Murder Mystery, and much more in the future! We cannot wait to show you what we've been working on. ✨
 
 ### Our Team
 
