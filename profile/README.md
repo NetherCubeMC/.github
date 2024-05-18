@@ -8,4 +8,4 @@ We're a small upcoming Minecraft: Bedrock Edition minigames server. Games will i
 
 ### Our Team
 
-NetherCube is an independant server, not owned by any parent company. Our team is very small at the moment but we're always looking for new applicants. Click [here]([https://nethercube.fillout.com/jobs](https://www.bucketofcrabs.net/c/nethercube)) to view all of our open job positions.
+NetherCube is an independant server, not owned by any parent company. Our team is very small at the moment but we're always looking for new applicants. Click [here]([https://www.bucketofcrabs.net/c/nethercube]) to view all of our open job positions.
